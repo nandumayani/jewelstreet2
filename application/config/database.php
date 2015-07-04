@@ -48,28 +48,11 @@
 $active_group = 'default';
 $active_record = TRUE;
 
-//// local database
-//$db['default']['hostname'] = 'localhost';
-//$db['default']['username'] = 'root';
-//$db['default']['password'] = '';
-//$db['default']['database'] = 'po_software';
-//$db['default']['dbdriver'] = 'mysql';
-//$db['default']['dbprefix'] = '';
-//$db['default']['pconnect'] = TRUE;
-//$db['default']['db_debug'] = TRUE;
-//$db['default']['cache_on'] = FALSE;
-//$db['default']['cachedir'] = '';
-//$db['default']['char_set'] = 'utf8';
-//$db['default']['dbcollat'] = 'utf8_general_ci';
-//$db['default']['swap_pre'] = '';
-//$db['default']['autoinit'] = TRUE;
-//$db['default']['stricton'] = FALSE;
-
-// Ezucate database
-$db['default']['hostname'] = '68.178.139.167';
-$db['default']['username'] = 'www1331311414515';
-$db['default']['password'] = 'Illooareu!1';
-$db['default']['database'] = 'www1331311414515';
+// local database
+$db['default']['hostname'] = 'localhost';
+$db['default']['username'] = 'root';
+$db['default']['password'] = '';
+$db['default']['database'] = 'jewel_street';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
 $db['default']['pconnect'] = TRUE;
@@ -81,6 +64,8 @@ $db['default']['dbcollat'] = 'utf8_general_ci';
 $db['default']['swap_pre'] = '';
 $db['default']['autoinit'] = TRUE;
 $db['default']['stricton'] = FALSE;
+
+
 
 
 /* End of file database.php */

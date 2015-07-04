@@ -17,9 +17,7 @@ if (!defined('BASEPATH'))
   | path to your installation.
   |
  */
-// $config['base_url'] = 'http://local_jewelstreet.com/';
-// $config['base_url']	= 'http://ezucate.com/devprojects/jewelstreet/';
-$config['base_url']	= 'http://logoohs.com/Devprojects/jewelstreet/';
+ $config['base_url'] = 'http://local_jewelstreet.com/';
 
 /*
   |--------------------------------------------------------------------------
